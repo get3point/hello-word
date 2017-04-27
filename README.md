@@ -1,2 +1,3 @@
 # hello-word
-just first repository
+just first repository 
+and type for changes
